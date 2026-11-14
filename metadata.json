@@ -1,0 +1,6 @@
+{
+  "name": "مسترجع البيانات",
+  "description": "تطبيق أندرويد محلي لفحص ملفات النسخ وصور الأقراص وفك تشفير قواعد بيانات واتساب (crypt14/crypt15) وعرضها وتصديرها بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
